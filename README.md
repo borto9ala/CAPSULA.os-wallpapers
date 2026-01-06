@@ -1,2 +1,8 @@
-# CAPSULA.os-wallpapers
-Capsula, a calm, minimal wallpaper pack built around soft capsule geometry and carefully balanced color palettes.  Designed to feel at home on modern desktops.
+# Capsula
+
+Minimal abstract capsule wallpapers.
+
+## License
+Personal use only.
+See LICENSE for details.
+👉 [ضع رابط الشراء هنا]
